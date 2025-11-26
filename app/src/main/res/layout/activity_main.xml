@@ -1,0 +1,37 @@
+<ViewSwitcher xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainSwitcher"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout  android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+       <EditText android:id="@+id/searchText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Country or Currency Code" />
+        <Button android:id="@+id/searchButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Search"/>
+        <TextView android:id="@+id/acknowledgement" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textSize="20sp" android:text="Contains Fx Currency Exchange data"/>
+        <TextView android:id="@+id/rawDataDisplay" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textSize="18sp" android:text="Status or results shown below" />
+        <ListView
+            android:id = "@+id/currencyListView"
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:divider = "@android:color/darker_gray"
+            android:dividerHeight= "5dp"
+        />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@+id/convertingTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textSize="20sp" android:textStyle="bold"/>
+        <ImageView android:id="@+id/flagImageView" android:layout_height="60dp" android:layout_width="80dp" android:layout_gravity="center_horizontal" android:contentDescription="Country Flag"/>
+        <TextView android:id="@+id/convertingDescription" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textSize="16sp"/>
+        <EditText android:id="@+id/inputAmount" android:hint="Enter amount" android:inputType="numberDecimal" android:layout_width="fill_parent" android:layout_height="wrap_content" anhdroid.inputType="numberDecimal"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <Button android:id="@+id/convertToOther" android:text="GBP to Currency" android:layout_weight="1" android:layout_width="0dp" android:layout_height="wrap_content"/>
+            <Button android:id="@+id/convertFromOther" android:text="Currency to GBP" android:layout_weight="1" android:layout_width="0dp" android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <TextView android:id="@+id/convertedResult" android:textSize="16sp" android:layout_width="fill_parent"  android:layout_height="wrap_content"/>
+        <Button android:id="@+id/returnButton" android:text="Return To Rates Page" android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</ViewSwitcher>

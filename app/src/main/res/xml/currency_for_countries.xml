@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<currencies>
+    <currency code="AED" country="United Arab Emirates" iso2="ae"/>
+    <currency code="ANG" country="Netherlands" iso2="nl"/>
+    <currency code="ARS" country="Argentina" iso2="ar"/>
+    <currency code="AUD" country="Australia" iso2="au"/>
+    <currency code="BDT" country="Bangladesh" iso2="bd"/>
+    <currency code="BGN" country="Bulgaria" iso2="bg"/>
+    <currency code="BHD" country="Bahrain" iso2="bh"/>
+    <currency code="BND" country="Brunei" iso2="bn"/>
+    <currency code="BOB" country="Bolivia" iso2="bo"/>
+    <currency code="BRL" country="Brazil" iso2="br"/>
+    <currency code="BWP" country="Botswana" iso2="bw"/>
+    <currency code="CAD" country="Canada" iso2="ca"/>
+    <currency code="CHF" country="Switzerland" iso2="ch"/>
+    <currency code="CLP" country="Chile" iso2="cl"/>
+    <currency code="CNY" country="China" iso2="cn"/>
+    <currency code="COP" country="Colombia" iso2="co"/>
+    <currency code="CRC" country="Costa Rica" iso2="cr"/>
+    <currency code="CZK" country="Czech Republic" iso2="cz"/>
+    <currency code="DKK" country="Denmark" iso2="dk"/>
+    <currency code="DOP" country="Dominican Republic" iso2="do"/>
+    <currency code="DZD" country="Algeria" iso2="dz"/>
+    <currency code="EEK" country="Estonia" iso2="ee"/>
+    <currency code="EGP" country="Egypt" iso2="eg"/>
+    <currency code="EUR" country="European Union" iso2="eu"/>
+    <currency code="FJD" country="Fiji" iso2="fj"/>
+    <currency code="HKD" country="Hong Kong" iso2="hk"/>
+    <currency code="HNL" country="Honduras" iso2="hn"/>
+    <currency code="HRK" country="Croatia" iso2="hr"/>
+    <currency code="HUF" country="Hungary" iso2="hu"/>
+    <currency code="IDR" country="Indonesia" iso2="id"/>
+    <currency code="ILS" country="Israel" iso2="il"/>
+    <currency code="INR" country="India" iso2="in"/>
+    <currency code="ISK" country="Iceland" iso2="is"/>
+    <currency code="JOD" country="Jordan" iso2="jo"/>
+    <currency code="JPY" country="Japan" iso2="jp"/>
+    <currency code="KES" country="Kenya" iso2="ke"/>
+    <currency code="KRW" country="South Korea" iso2="kr"/>
+    <currency code="KWD" country="Kuwait" iso2="kw"/>
+    <currency code="KYD" country="Cayman Islands" iso2="ky"/>
+    <currency code="KZT" country="Kazakhstan" iso2="kz"/>
+    <currency code="LBP" country="Lebanon" iso2="lb"/>
+    <currency code="LKR" country="Sri Lanka" iso2="lk"/>
+    <currency code="LTL" country="Lithuania" iso2="lt"/>
+    <currency code="LVL" country="Latvia" iso2="lv"/>
+    <currency code="MAD" country="Morocco" iso2="ma"/>
+    <currency code="MDL" country="Moldova" iso2="md"/>
+    <currency code="MKD" country="North Macedonia" iso2="mk"/>
+    <currency code="MUR" country="Mauritius" iso2="mu"/>
+    <currency code="MVR" country="Maldives" iso2="mv"/>
+    <currency code="MXN" country="Mexico" iso2="mx"/>
+    <currency code="MYR" country="Malaysia" iso2="my"/>
+    <currency code="NAD" country="Namibia" iso2="na"/>
+    <currency code="NGN" country="Nigeria" iso2="ng"/>
+    <currency code="NIO" country="Nicaragua" iso2="ni"/>
+    <currency code="NOK" country="Norway" iso2="no"/>
+    <currency code="NPR" country="Nepal" iso2="np"/>
+    <currency code="NZD" country="New Zealand" iso2="nz"/>
+    <currency code="OMR" country="Oman" iso2="om"/>
+    <currency code="PEN" country="Peru" iso2="pe"/>
+    <currency code="PGK" country="Papua New Guinea" iso2="pg"/>
+    <currency code="PHP" country="Philippines" iso2="ph"/>
+    <currency code="PKR" country="Pakistan" iso2="pk"/>
+    <currency code="PLN" country="Poland" iso2="pl"/>
+    <currency code="PYG" country="Paraguay" iso2="py"/>
+    <currency code="QAR" country="Qatar" iso2="qa"/>
+    <currency code="RON" country="Romania" iso2="ro"/>
+    <currency code="RSD" country="Serbia" iso2="rs"/>
+    <currency code="RUB" country="Russia" iso2="ru"/>
+    <currency code="SAR" country="Saudi Arabia" iso2="sa"/>
+    <currency code="SCR" country="Seychelles" iso2="sc"/>
+    <currency code="SEK" country="Sweden" iso2="se"/>
+    <currency code="SGD" country="Singapore" iso2="sg"/>
+    <currency code="SKK" country="Slovakia" iso2="sk"/>
+    <currency code="SLL" country="Sierra Leone" iso2="sl"/>
+    <currency code="SVC" country="El Salvador" iso2="sv"/>
+    <currency code="THB" country="Thailand" iso2="th"/>
+    <currency code="TND" country="Tunisia" iso2="tn"/>
+    <currency code="TRY" country="Turkey" iso2="tr"/>
+    <currency code="TTD" country="Trinidad and Tobago" iso2="tt"/>
+    <currency code="TWD" country="Taiwan" iso2="tw"/>
+    <currency code="TZS" country="Tanzania" iso2="tz"/>
+    <currency code="UAH" country="Ukraine" iso2="ua"/>
+    <currency code="UGX" country="Uganda" iso2="ug"/>
+    <currency code="USD" country="United States" iso2="us"/>
+    <currency code="UYU" country="Uruguay" iso2="uy"/>
+    <currency code="UZS" country="Uzbekistan" iso2="uz"/>
+    <currency code="VEF" country="Venezuela" iso2="ve"/>
+    <currency code="VND" country="Vietnam" iso2="vn"/>
+    <currency code="XOF" country="West Africa" iso2="sn"/>
+    <currency code="YER" country="Yemen" iso2="ye"/>
+    <currency code="ZAR" country="South Africa" iso2="za"/>
+    <currency code="ZMK" country="Zambia" iso2="zm"/>
+    <currency code="IQD" country="Iraq" iso2="iq"/>
+    <currency code="ALL" country="Albania" iso2="al"/>
+    <currency code="BSD" country="Bahamas" iso2="bs"/>
+    <currency code="BBD" country="Barbados" iso2="bb"/>
+    <currency code="BZD" country="Belize" iso2="bz"/>
+    <currency code="BTN" country="Bhutan" iso2="bt"/>
+    <currency code="BIF" country="Burundi" iso2="bi"/>
+    <currency code="KHR" country="Cambodia" iso2="kh"/>
+    <currency code="CVE" country="Cape Verde" iso2="cv"/>
+    <currency code="XAF" country="Central Africa" iso2="cf"/>
+    <currency code="KMF" country="Comoros" iso2="km"/>
+    <currency code="CUP" country="Cuba" iso2="cu"/>
+    <currency code="DJF" country="Djibouti" iso2="dj"/>
+    <currency code="XCD" country="East Caribbean" iso2="ag"/>
+    <currency code="ETB" country="Ethiopia" iso2="et"/>
+    <currency code="GMD" country="Gambia" iso2="gm"/>
+    <currency code="GTQ" country="Guatemala" iso2="gt"/>
+    <currency code="GNF" country="Guinea" iso2="gn"/>
+    <currency code="GYD" country="Guyana" iso2="gy"/>
+    <currency code="HTG" country="Haiti" iso2="ht"/>
+    <currency code="IRR" country="Iran" iso2="ir"/>
+    <currency code="JMD" country="Jamaica" iso2="jm"/>
+    <currency code="LAK" country="Laos" iso2="la"/>
+    <currency code="LSL" country="Lesotho" iso2="ls"/>
+    <currency code="LRD" country="Liberia" iso2="lr"/>
+    <currency code="LYD" country="Libya" iso2="ly"/>
+    <currency code="MOP" country="Macau" iso2="mo"/>
+    <currency code="MWK" country="Malawi" iso2="mw"/>
+    <currency code="MRO" country="Mauritania" iso2="mr"/>
+    <currency code="MNT" country="Mongolia" iso2="mn"/>
+    <currency code="MMK" country="Myanmar" iso2="mm"/>
+    <currency code="KPW" country="North Korea" iso2="kp"/>
+    <currency code="RWF" country="Rwanda" iso2="rw"/>
+    <currency code="WST" country="Samoa" iso2="ws"/>
+    <currency code="SBD" country="Solomon Islands" iso2="sb"/>
+    <currency code="SOS" country="Somalia" iso2="so"/>
+    <currency code="SDG" country="Sudan" iso2="sd"/>
+    <currency code="SZL" country="Eswatini" iso2="sz"/>
+    <currency code="SYP" country="Syria" iso2="sy"/>
+    <currency code="TOP" country="Tonga" iso2="to"/>
+    <currency code="VUV" country="Vanuatu" iso2="vu"/>
+    <currency code="KGS" country="Kyrgyzstan" iso2="kg"/>
+    <currency code="GHS" country="Ghana" iso2="gh"/>
+    <currency code="BYN" country="Belarus" iso2="by"/>
+    <currency code="AFN" country="Afghanistan" iso2="af"/>
+    <currency code="AOA" country="Angola" iso2="ao"/>
+    <currency code="AMD" country="Armenia" iso2="am"/>
+    <currency code="AZN" country="Azerbaijan" iso2="az"/>
+    <currency code="BAM" country="Bosnia and Herzegovina" iso2="ba"/>
+    <currency code="CDF" country="Democratic Republic of the Congo" iso2="cd"/>
+    <currency code="ERN" country="Eritrea" iso2="er"/>
+    <currency code="GEL" country="Georgia" iso2="ge"/>
+    <currency code="MGA" country="Madagascar" iso2="mg"/>
+    <currency code="MZN" country="Mozambique" iso2="mz"/>
+    <currency code="SRD" country="Suriname" iso2="sr"/>
+    <currency code="TJS" country="Tajikistan" iso2="tj"/>
+    <currency code="TMT" country="Turkmenistan" iso2="tm"/>
+    <currency code="ZMW" country="Zambia" iso2="zm"/>
+    <currency code="AWG" country="Aruba" iso2="aw"/>
+    <currency code="BYR" country="Belarus" iso2="by"/>
+    <currency code="BMD" country="Bermuda" iso2="bm"/>
+    <currency code="FKP" country="Falkland Islands" iso2="fk"/>
+    <currency code="XPF" country="French Pacific Territories" iso2="pf"/>
+    <currency code="PAB" country="Panama" iso2="pa"/>
+    <currency code="STD" country="São Tomé and Príncipe" iso2="st"/>
+    <currency code="SHP" country="Saint Helena" iso2="sh"/>
+    <currency code="ZWD" country="Zimbabwe" iso2="zw"/>
+    <currency code="BTC" country="Bitcoin" iso2=""/>
+</currencies>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rate_strong">#FF4CAF50</color>     //Green
+    <color name="rate_good">#FFFFEB3B</color>       //Yellow
+    <color name="rate_weak">#FFFF9800</color>       //Orange
+    <color name="rate_poor">#FFF44336</color>       //Red
+</resources>
